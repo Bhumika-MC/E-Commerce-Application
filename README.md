@@ -16,8 +16,8 @@ A complete **E-commerce Application** that offers users a smooth shopping experi
 
 ## 🚀 Live Demo
 
-👉 [Click here to view the live site](https://abhiecomapp.ccbp.tech)  
-🔗 URL: https://abhiecomapp.ccbp.tech
+👉 [Click here to view the live site](https://bhumiecomapp.ccbp.tech)  
+🔗 URL: https://bhumiecomapp.ccbp.tech
 
 ## ✨ Features
 
